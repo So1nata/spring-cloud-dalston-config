@@ -4,4 +4,6 @@ zuul:
   MyZuulFilter:
     pre:
       disable: true
-
+  filter:
+    root: filter
+    interval: 5
