@@ -4,3 +4,8 @@ info:
 
 test:
     a: a
+
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:1001/eureka
