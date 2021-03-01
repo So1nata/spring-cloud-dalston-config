@@ -1,3 +1,6 @@
 info:
     profire: default
     form: git
+
+test:
+    a: a
