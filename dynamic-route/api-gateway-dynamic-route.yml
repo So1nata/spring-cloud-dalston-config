@@ -1,0 +1,7 @@
+zuul:
+  routes:
+    eureka-client: /api/**      # 简洁配法， serviceId: path
+  MyZuulFilter:
+    pre:
+      disable: true
+
